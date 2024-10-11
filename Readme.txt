@@ -1,3 +1,5 @@
 Welcome to myproject
 
-Author:GAurang Singhal
+Twitter: @bgaurangsinghal
+
+Author: GAurang Singhal
