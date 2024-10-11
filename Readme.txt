@@ -4,4 +4,6 @@ Twitter: @bgaurangsinghal
 
 Author: GAurang Singhal
 
-Branch: B.tech
+Branch: B.tech 
+
+specializtion in Information technology
